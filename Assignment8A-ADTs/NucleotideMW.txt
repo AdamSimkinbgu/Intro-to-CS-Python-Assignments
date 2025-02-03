@@ -1,0 +1,6 @@
+Nucleotide - MW (g/mol)
+dATP(A) - 491.2
+dCTP(C) - 467.2
+dGTP(G) - 507.2
+dTTP(T) - 482.2
+UTP(U) - 484.2
